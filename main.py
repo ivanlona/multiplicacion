@@ -124,4 +124,13 @@ def test():
   suma([1587,342,123,9879])
   print("")
 
+
+  print("Iván López -->Semana Santa 2019")
+  print("")
+  print("division(factor1,factor2)")
+  print("Escribe las divisiones como en el cole")
+  print("Ej:division(124,35)")
+  division(124,35)
+  print("")
+
 test()
